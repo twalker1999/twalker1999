@@ -1,10 +1,9 @@
 ## Hi there 👋
-##test
+I am a 3rd year Ph.D. student at UC Berkeley. You can reach me at my email address  📫 taylor_walker@berkeley.edu. I am fascinated🤔 by symbiotic relationships involving coral (e.g., viruses and Symbiodiniaceae). I love horror movies, exploring new food spots around town, and going to the beach! 
 <!--
 **twalker1999/twalker1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a 3rd year Ph.D. student at UC Berkeley. You can reach me at my email address  📫 taylor_walker@berkeley.edu. I am fascinated🤔 by symbiotic relationships involving coral 
-(e.g., viruses and Symbiodiniaceae). I love horror movies, exploring new food spots around town, and going to the beach! 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
